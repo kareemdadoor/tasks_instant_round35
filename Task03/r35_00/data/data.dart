@@ -3,6 +3,8 @@ import '../entites/doctor.dart';
 import '../entites/nurse.dart';
 import '../entites/patient.dart';
 
+
+//data
 class Data{
 
   static List<Doctor> doctors = [
